@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Take-Home-Exam/webapp/static/css/main.5b481d14.css",
+    "main.js": "/Take-Home-Exam/webapp/static/js/main.3c1f0457.js",
+    "static/js/488.2d9eb03a.chunk.js": "/Take-Home-Exam/webapp/static/js/488.2d9eb03a.chunk.js",
+    "index.html": "/Take-Home-Exam/webapp/index.html",
+    "main.5b481d14.css.map": "/Take-Home-Exam/webapp/static/css/main.5b481d14.css.map",
+    "main.3c1f0457.js.map": "/Take-Home-Exam/webapp/static/js/main.3c1f0457.js.map",
+    "488.2d9eb03a.chunk.js.map": "/Take-Home-Exam/webapp/static/js/488.2d9eb03a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b481d14.css",
+    "static/js/main.3c1f0457.js"
+  ]
+}
