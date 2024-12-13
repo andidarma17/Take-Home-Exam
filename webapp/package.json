@@ -1,5 +1,5 @@
 {
-  "homepage": "https://andidarma17.github.io/Take-Home-Exam/webapp",
+  "homepage": "https://andidarma17.github.io/Take-Home-Exam",
   "name": "webapp",
   "version": "0.1.0",
   "private": true,
@@ -12,14 +12,13 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-},
-
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -37,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
